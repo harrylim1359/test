@@ -17,11 +17,11 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "4.1.17",
+        "target": "4.1.25",
         "targetId": "arcade"
     },
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "pyprj"
+    "preferredEditor": "tsprj"
 }
